@@ -1,1 +1,5 @@
 anew
+dist/
+.goreleaser.yml
+go.mod
+.idea/
