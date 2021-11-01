@@ -3,3 +3,4 @@ dist/
 .goreleaser.yml
 go.mod
 .idea/
+push.sh
